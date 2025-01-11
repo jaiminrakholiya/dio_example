@@ -19,7 +19,7 @@ Dio is a powerful and flexible HTTP client for Dart. It provides a simple and in
 * **Flexible:** Highly customizable with interceptors, transformers, and options.
 * **Well-documented:** Comprehensive documentation and examples are available.
 
-**To use Dio in your project:**
+**To use Dio in your project do this:**
 
 1. Add the `dio` dependency to your `pubspec.yaml` file:
 
